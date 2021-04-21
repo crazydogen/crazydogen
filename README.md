@@ -3,6 +3,9 @@
 <!--
 **crazydogen/crazydogen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<a title="Hits" target="_blank" href="https://github.com/88250/88250"><img src="https://hits.b3log.org/88250/88250.svg"></a>
+
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=88250&theme=tokyonight&show_icons=true)](https://github.com/88250)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
